@@ -7,3 +7,5 @@ I made a simple sample to see if this problem still exists.
 
 However, this simple sample did not reproduce the problem.
 Are the various problems of Fragment solved?
+
+https://github.com/HideakiSago/Android-Fragment-Sample/issues/1
